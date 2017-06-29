@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>co.com.proteccion</groupId>
+  <artifactId>AdmonPropiedadesClient</artifactId>
+  <version>0.0.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20131105.164329</timestamp>
+      <buildNumber>10</buildNumber>
+    </snapshot>
+    <lastUpdated>20131105164329</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.2-20131105.164329-10</value>
+        <updated>20131105164329</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.2-20131105.164329-10</value>
+        <updated>20131105164329</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.0.2-20131105.164329-10</value>
+        <updated>20131105164329</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

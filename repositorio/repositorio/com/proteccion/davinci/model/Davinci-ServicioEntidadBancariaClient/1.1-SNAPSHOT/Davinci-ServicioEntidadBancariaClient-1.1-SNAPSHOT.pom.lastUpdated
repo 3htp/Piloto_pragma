@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Apr 18 23:43:22 COT 2017
+@default-Nexus3-http\://asmed30.pragma.com.co\:8080/nexus-webapp-1.9.1.1/content/groups/public/.lastUpdated=1492577002884
+http\://asmed30.pragma.com.co\:8080/nexus-webapp-1.9.1.1/content/groups/public/.error=Could not transfer artifact com.proteccion.davinci.model\:Davinci-ServicioEntidadBancariaClient\:pom\:1.1-SNAPSHOT from/to Nexus3 (http\://asmed30.pragma.com.co\:8080/nexus-webapp-1.9.1.1/content/groups/public/)\: asmed30.pragma.com.co
